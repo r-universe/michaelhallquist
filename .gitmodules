@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MplusAutomation"]
+	path = MplusAutomation
+	url = https://github.com/michaelhallquist/mplusautomation
+	shallow = true
+	registered = true
