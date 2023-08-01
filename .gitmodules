@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ggbrain"]
-	path = ggbrain
-	url = https://github.com/michaelhallquist/ggbrain
 [submodule "MplusAutomation"]
 	path = MplusAutomation
 	url = https://github.com/michaelhallquist/mplusautomation
+[submodule "ggbrain"]
+	path = ggbrain
+	url = https://github.com/michaelhallquist/ggbrain
